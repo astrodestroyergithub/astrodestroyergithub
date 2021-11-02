@@ -2,12 +2,10 @@
 <h3 align="center">CSE Student, VIT Chennai</h3>
 <br><br>
 
-<div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+CSE+Undergraduate;I'm+a+Web+Developer;I+am+a+Youtuber;I'm+a+Critical+Thinker"/>
-</div>
-
 <p align="center">
   <img alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" width="500px"/>
+  <br>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+CSE+Undergraduate;I'm+a+Web+Developer;I+am+a+Youtuber;I'm+a+Critical+Thinker"/>
 </p>
 
 ### 🌱 I’m currently learning
@@ -50,7 +48,6 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Tensorflow" width="35px" src="https://4.bp.blogspot.com/-mya0XZqrtJs/XoN9SufkS2I/AAAAAAAAC5w/y5POjjt0Rs8B8uLLO1gegGb74MYTx7W7gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" /> 
 <br>
 <br>
 <br>
@@ -72,7 +69,7 @@
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=astrodestroyergithub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tamojit's Github Stats" width="60%">
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=astrodestroyergithub&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ishita's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=astrodestroyergithub&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Tamojit's Top Languages">
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
@@ -121,7 +118,7 @@
 </p>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Make me happy &nbsp; 😊 &nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 ⭐️ From [Tamojit Roy](https://github.com/astrodestroyergithub)
