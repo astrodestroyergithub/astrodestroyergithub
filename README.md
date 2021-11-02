@@ -1,12 +1,104 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tamojit Roy</h1>
+<h3 align="center">CSE Student, VIT Chennai</h3>
+<br><br>
 
-Here are some ideas to let you know me better:
+<p align="center">
+  <img alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" width="500px"/>
+</p>
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Artificial Intelligence
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about Anything
-- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCCiKcWcW6IUaRibl-5opkyg)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am half Finished
+### 🌱 I’m currently learning
+- Web Development
+- Parallel and Distributed Computing
+- Content Based Image and Video Retrieval
+- DSA and Competitive Coding
+- Digital Forensics
+
+### 👯 I’m looking to collaborate on
+- Web Developmet
+- Image Processing
+
+### 📫 Get In Touch:
+- GitHub : https://github.com/astrodestroyergithub
+- LinkedIn : https://www.linkedin.com/in/tamojit-roy-6b278518b/
+- Email : tamojitroy140301@gmail.com
+- My YouTube Channel : https://bit.ly/astrodestroyeryoutubechannel
+
+<!--
+### 🔭 I’m currently working on ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="java" width="35px" src="https://symbols-electrical.getvecta.com/stencil_85/10_java-icon.e6c5a2a97a.jpg" /> 
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Tensorflow" width="35px" src="https://4.bp.blogspot.com/-mya0XZqrtJs/XoN9SufkS2I/AAAAAAAAC5w/y5POjjt0Rs8B8uLLO1gegGb74MYTx7W7gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" /> 
+<br>
+<br>
+<br>
+<br>
+
+<!--
+<details>
+  <summary>:zap: Github Stats</summary>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+</p>
+<br>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
+</p>
+</details> -->
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=astrodestroyergithub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tamojit's Github Stats" width="60%">
+
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=astrodestroyergithub&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ishita's Top Languages">
+
+<!-- stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
+![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+
+<!-- repos
+<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
+</a>
+<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+</a>
+<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
+</a>
+-->
+
+<br>
+
+<!-- ### :zap: Recent Github Activity -->
+
+<!--START_SECTION:activity-->
+
+<!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
+2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
+3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
+ <!--END_SECTION:activity-->
+
+<br>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
