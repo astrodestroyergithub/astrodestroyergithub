@@ -2,6 +2,10 @@
 <h3 align="center">CSE Student, VIT Chennai</h3>
 <br><br>
 
+<div>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+CSE+Undergraduate;I'm+a+Web+Developer;I+am+a+Youtuber;I'm+a+Critical+Thinker"/>
+</div>
+
 <p align="center">
   <img alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" width="500px"/>
 </p>
@@ -21,6 +25,7 @@
 - GitHub : https://github.com/astrodestroyergithub
 - LinkedIn : https://www.linkedin.com/in/tamojit-roy-6b278518b/
 - Email : tamojitroy140301@gmail.com
+- Twitter : https://twitter.com/AstroDestroyer
 - My YouTube Channel : https://bit.ly/astrodestroyeryoutubechannel
 
 <!--
@@ -35,7 +40,6 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -99,6 +103,25 @@
 
 <br>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p align="center">
+<img src="https://github.com/astrodestroyergithub/astrodestroyergithub/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
+⭐️ From [Tamojit Roy](https://github.com/astrodestroyergithub)
