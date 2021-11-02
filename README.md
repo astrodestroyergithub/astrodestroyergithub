@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" width="500px"/>
   <br>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer;I'm+a+CSE+Undergraduate;I'm+a+Web+Developer;I+am+a+Youtuber;I'm+a+Critical+Thinker"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer+Engineer;I'm+a+CSE+Undergraduate+Student;I'm+a+Web+Developer+and+Designer;I+am+a+Youtuber+and+Creator;I'm+a+Critical+Thinker"/>
 </p>
 
 ### 🌱 I’m currently learning
