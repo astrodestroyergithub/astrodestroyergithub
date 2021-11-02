@@ -100,19 +100,6 @@
 
 <br>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <p align="center">
 <img src="https://github.com/astrodestroyergithub/astrodestroyergithub/blob/output/github-contribution-grid-snake.svg"/>
 </p>
