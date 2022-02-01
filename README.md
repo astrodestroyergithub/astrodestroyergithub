@@ -25,7 +25,7 @@
 - LinkedIn : https://www.linkedin.com/in/tamojit-roy-6b278518b/
 - Email : tamojitroy140301@gmail.com
 - Twitter : https://twitter.com/AstroDestroyer
-- My YouTube Channel : https://bit.ly/astrodestroyeryoutubechannel
+- My YouTube Channel : https://www.youtube.com/AstroDestroyer146
 
 ### Languages and Tools:
 
@@ -47,6 +47,7 @@
 <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
 <img align="left" alt="Cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<br>
 <img align="left" alt="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Matlab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Premiere Pro" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
