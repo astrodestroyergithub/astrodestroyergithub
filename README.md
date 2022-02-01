@@ -44,9 +44,12 @@
 <img align="left" alt="PhP" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
+<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
 <img align="left" alt="Cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
-<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img align="left" alt="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="left" alt="Matlab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Premiere Pro" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 <br>
 <br>
 <br>
