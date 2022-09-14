@@ -54,6 +54,7 @@
 <img align="left" alt="Nextjs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <br>
 <br>
+<br>
 
 ### :zap: Github Stats
 
