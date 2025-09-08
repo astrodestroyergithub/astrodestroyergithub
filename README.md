@@ -47,7 +47,7 @@
 <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
 <img align="left" alt="Cpp" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<br><br>
+
 <img align="left" alt="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="Matlab" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Premiere Pro" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
@@ -62,11 +62,11 @@
 <img align="left" alt="Eclipse" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 <img align="left" alt="GitHub Actions" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <img align="left" alt="IntelliJ" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img align="left" alt="Insomnia" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Insomnia" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 <img align="left" alt="JEST" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" alt="JUnit" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-<br><br>
+
 <img align="left" alt="LeetCode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" />
 <img align="left" alt="Material UI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Netbeans" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
