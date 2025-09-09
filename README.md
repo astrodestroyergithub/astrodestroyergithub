@@ -71,8 +71,8 @@
 <img align="left" alt="Material UI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Netbeans" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
 <img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Pycharm" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="Pycharm" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <br>
 <br>
 <br>
