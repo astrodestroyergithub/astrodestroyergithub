@@ -8,24 +8,19 @@
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer+Engineer;I'm+a+CSE+Undergraduate+Student;I'm+a+Web+Developer+and+Designer;I+am+a+Youtuber+and+Creator;I'm+a+Critical+Thinker"/>
 </p>
 
-### 🌱 I’m currently learning
-- Machine Learning
-- Web Development
-- Natural Language Processing
-- DSA and Competitive Coding
-- Artificial Intelligence
+### Currently exploring software engineering, and working on various interesting projects. 
 
-### 👯 I’m looking to collaborate on
-- Web Development
-- Image Processing
-- Social and Information Networks
+<br>
 
-### 📫 Get In Touch:
-- GitHub : https://github.com/astrodestroyergithub
-- LinkedIn : https://www.linkedin.com/in/tamojit-roy-6b278518b/
-- Email : tamojitroy140301@gmail.com
-- Twitter : https://twitter.com/AstroDestroyer
-- My YouTube Channel : https://www.youtube.com/AstroDestroyer146
+### Skills
+
+- **Programming:** Java, JavaScript, HTML, CSS, Python
+  
+- **Frameworks:** React.js, Angular, Spring Boot
+  
+- **Databases:** PostgreSQL, MySQL
+  
+- **Tools & Platforms:** Visual Studio Code, IntelliJ IDEA, Eclipse, Postman, Insomnia, pgAdmin, Subject7
 
 ### Languages and Tools:
 
