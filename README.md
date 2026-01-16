@@ -8,7 +8,7 @@
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer+Engineer;I'm+a+CSE+Undergraduate+Student;I'm+a+Web+Developer+and+Designer;I+am+a+Youtuber+and+Creator;I'm+a+Critical+Thinker"/>
 </p>
 
-### I'm a Full-Stack Developer with 2+ years of experience building and deploying end-to-end web applications. Skilled in front-end and back-end development. Demonstrated ability to deliver scalable, high-performance solutions in the manufacturing domain and a strong commitment to continuous learning. 
+### I'm a Full-Stack Developer with 2+ years of experience building and deploying end-to-end web applications. Skilled in front-end and back-end development. Demonstrated ability to deliver scalable, high-performance solutions in the manufacturing domain and a strong commitment to continuous learning. I also provide my own paid technical services, and you can reach out to me with any such request or just ping me via my [Website](https://tamojitroyverse360.netlify.app). 
 
 <br>
 
