@@ -8,7 +8,7 @@
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Developer+Engineer;I'm+a+CSE+Undergraduate+Student;I'm+a+Web+Developer+and+Designer;I+am+a+Youtuber+and+Creator;I'm+a+Critical+Thinker"/>
 </p>
 
-### Currently exploring software engineering, and working on various interesting projects. 
+### I'm a Full-Stack Developer with 2+ years of experience building and deploying end-to-end web applications. Skilled in front-end and back-end development. Demonstrated ability to deliver scalable, high-performance solutions in the manufacturing domain and a strong commitment to continuous learning. 
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/AstroDestroyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamojitroy" height="30" width="40" /></a>
+<a href="https://x.com/AstroDestroyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="tamojitroy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tamojit-roy-6b278518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamojitroy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/astrodestroyer146/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamojitroy" height="30" width="40" /></a>
 </p>
