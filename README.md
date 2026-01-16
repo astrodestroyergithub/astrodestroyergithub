@@ -22,6 +22,17 @@
   
 - **Tools & Platforms:** Visual Studio Code, IntelliJ IDEA, Eclipse, Postman, Insomnia, pgAdmin, Subject7
 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/AstroDestroyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamojitroy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamojit-roy-6b278518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamojitroy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/astrodestroyer146/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamojitroy" height="30" width="40" /></a>
+</p>
+
+<br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
